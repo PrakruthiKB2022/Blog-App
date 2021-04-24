@@ -1,3 +1,3 @@
 # BlogApp
 
-This is a Bootstrap Blog website
+This is a Blog website using Bootstrap
